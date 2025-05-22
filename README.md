@@ -1,1 +1,1 @@
-# School_project
+I am making the project in school Management
